@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+pillow
+matplotlib
+numpy
+scipy
+jupyter
+tf-keras
+importlib_resources
+setuptools<81
